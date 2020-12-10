@@ -15,6 +15,7 @@ Electrical Engineering student at Federal University of Itajubá (UNIFEI). Curre
 
 <p align="left">
   💡 Please let me know if I can help you with anything.
+  
      Looking forward to working with you soon 
 </p>
 
