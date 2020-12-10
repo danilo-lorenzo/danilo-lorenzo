@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Electrical Engineering student at Federal University of Itajubá (UNIFEI). Currently a member of the Telecommunications Laboratory (LabTel IoT). Was a Electric Powertrain member at EcoVeículo, special project. Own the First Certificate in English (FCE). 
+
 </p>
 
 <p align="left">
